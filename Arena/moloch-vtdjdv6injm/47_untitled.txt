@@ -1,0 +1,1 @@
+The greater the optimization power we put behind X, the more pressure we put upon Y. Eventually, under sufficient pressure, any given Y is likely doomed. Since Value is Fragile, some necessary Y is eventually sacrificed, and all value gets destroyed.

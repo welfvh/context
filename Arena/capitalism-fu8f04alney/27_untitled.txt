@@ -1,0 +1,6 @@
+Objective Function:
+
+- Convert maximum amount of human creativity, ideas, labor, natural resources into capital
+- Capital represents pure optionality/power rather than intrinsic value
+- Often destroys real complex value (like forests) to create simpler fungible value (like lumber)
+- Optimizes for narrow metrics while creating wide externalities

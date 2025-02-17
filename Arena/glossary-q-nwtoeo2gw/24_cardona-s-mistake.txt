@@ -1,0 +1,15 @@
+**Cardona's Mistake**
+
+It’s often the case that people are slow to abandon obsolete playbooks in response to a novel challenge. And AGI is certainly a very novel challenge.
+
+Italian general Luigi Cadorna offers a memorable historical example. In the Isonzo Offensive of World War I, Cadorna lost hundreds of thousands of men in futile frontal assaults against enemy trenches defended by barbed wire and machine guns.  
+
+As morale plummeted and desertions became epidemic, Cadorna began executing his own soldiers en masse, in an attempt to cure the rest of their “cowardice.” The offensive continued for 2.5 years.
+
+Cadorna made many mistakes, but foremost among them was his refusal to recognize that this war was fundamentally unlike those that had come before.  
+
+Modern weaponry had forced a paradigm shift, and Cadorna’s instincts were not merely miscalibrated—they were systematically broken.  No number of small, incremental updates within his obsolete framework would be sufficient to meet the new challenge.
+
+Other examples of this type of mistake include the initial response of the record industry to iTunes and streaming; or, more seriously, the response of most Western governments to COVID-19.
+
+https://www.alignmentforum.org/posts/keiYkaeoLHoKK4LYA/six-dimensions-of-operational-adequacy-in-agi-projects

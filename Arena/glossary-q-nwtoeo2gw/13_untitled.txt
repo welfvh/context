@@ -1,0 +1,5 @@
+White = Morality
+Black = Power
+Blue = Knowledge
+Red = Passion
+Green = [Environmentalism/Spirituality/Wisdom]

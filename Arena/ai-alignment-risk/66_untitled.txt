@@ -1,0 +1,3 @@
+> We continue to believe that the best way to make an AI system safe is by iteratively and gradually releasing it into the world, giving society time to adapt and co-evolve with the technology, learning from experience, and continuing to make the technology safer.
+
+→ Release frontier models as aggressively and quickly as profitably possible

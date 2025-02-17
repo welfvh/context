@@ -1,0 +1,3 @@
+**“technological orthodoxy”**
+
+For most of history, the process of tech design has either assumed that such second-and third-order effects do not occur or that tech innovation is net positive. This approach is called “technological orthodoxy”, and it views technology as neutral with regard to human values.

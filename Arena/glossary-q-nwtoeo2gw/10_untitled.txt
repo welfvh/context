@@ -1,0 +1,2 @@
+**Precautionary Principle**
+Given that most of the people who have studied AI alignment very deeply, are concerned with the speed and direction in which we're moving, and where there is disagreement between experts, where there's radical uncertainty, but also maximum consequentiality, and irreversibility... "go as fast as possible" is not the right answer.

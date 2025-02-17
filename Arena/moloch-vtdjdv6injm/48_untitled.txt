@@ -1,0 +1,1 @@
+Every simple optimization target yet suggested would, if fully implemented, destroy all value in the universe.

@@ -1,0 +1,3 @@
+> while much of AI alignment research focuses on the question, “How do we align a powerful AI system with our values?”, your work is probing the question, **“How do we ensure that the entire evolutionary landscape of human civilization—its markets, institutions, cultural selection pressures, and underlying economic logic—is oriented toward life-affirming ends, rather than simply funneled into increasingly extractive or nihilistic trajectories?”**
+
+—o1 Pro

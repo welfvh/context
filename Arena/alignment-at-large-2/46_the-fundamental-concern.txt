@@ -1,0 +1,25 @@
+**The fundamental concern driving alignment research for civilizationally embedded transformative AI is this: Even if we achieve technical alignment—producing AI systems that are obedient, 'ethical' by current standards, and aligned with 'human values' while serving corporate interests—these systems will likely amplify and accelerate technological capitalism's existing optimization processes in ways fundamentally incompatible with human flourishing, life-affirming civilization, and the continued vitality of biological life.**
+
+**The fundamental concern driving wisdom alignment research**
+This framing positions the problem as one of wisdom rather than mere technical capability or conventional ethics. "Wisdom alignment" suggests a deeper consideration of what constitutes genuine advancement and flourishing, beyond simple preference satisfaction or narrow optimization metrics. The term deliberately evokes ancient wisdom traditions and philosophical inquiry into what makes life meaningful and worthwhile, while acknowledging the unprecedented challenges of embedding such wisdom in transformative technical systems.
+
+**for civilizationally embedded transformative AI**
+This specifies we're dealing with AI systems that are: 
+1) transformative - capable of causing fundamental changes to civilization,
+2) embedded - intrinsically integrated into civilization's core systems and processes rather than existing as isolated agents, and
+3) civilizational in scope - operating at the level of entire societies and their trajectory. The term CETAI captures how these systems are not merely tools but are becoming constitutive elements of civilization itself.
+
+**Even if we achieve technical alignment**
+This acknowledges the existing work on AI alignment while suggesting its potential insufficiency. "Technical alignment" refers to the engineering challenge of making AI systems reliably pursue specified goals and respect defined constraints. The "even if" signals that solving technical alignment, while necessary, may not be sufficient to address deeper concerns.
+
+**producing AI systems that are obedient, 'ethical' by current standards, and aligned with 'human values'**
+This unpacks what technical alignment typically means in practice. The scare quotes around 'ethical' and 'aligned' suggest skepticism about these terms' adequacy. "Current standards" points to how our ethical frameworks may be shaped by and limited to what's compatible with existing systems. "Human-specified values" highlights both the challenge of value specification and the question of whose values get specified.
+
+**while serving corporate interests**
+This clause recognizes that AI development occurs within a specific political-economic context. It highlights how corporate imperatives—profit maximization, shareholder value, market competition—shape what kinds of "alignment" are pursued and considered acceptable. This creates pressure to interpret "ethics" and "values" in ways compatible with corporate objectives.
+
+**these systems will likely amplify and accelerate technological capitalism's existing optimization processes**
+This identifies the core mechanism of concern: that aligned AI systems, embedded in current institutions, will enhance and speed up existing systemic trends. "Technological capitalism" names the current socio-economic system characterized by technological acceleration and market-driven optimization. The term "optimization processes" points to how the system automatically pursues certain metrics while potentially neglecting or damaging other values.
+
+**in ways fundamentally incompatible with human flourishing, life-affirming civilization, and the continued vitality of biological life**
+This names what's at stake: that current optimization processes, even if technically "aligned," may be fundamentally at odds with deeper values and needs. "Human flourishing" suggests a richer conception of human good beyond preference satisfaction. "Life-affirming civilization" points to the need for systems that enhance rather than diminish life's possibilities. "Vitality of biological life" recognizes that human flourishing is inseparable from the broader web of biological existence.
