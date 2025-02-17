@@ -5,8 +5,8 @@ import xml.etree.ElementTree as ET
 from xml.dom import minidom
 
 def generate_sitemap():
-    # Base URL of your site
-    base_url = "https://yoursite.com"  # Replace with your actual domain
+    # Update base URL to correct domain
+    base_url = "https://welfvh.github.io/context"  # Changed from "https://yoursite.com"
     
     # Initialize sitemap XML
     urlset = ET.Element("urlset", xmlns="http://www.sitemaps.org/schemas/sitemap/0.9")
